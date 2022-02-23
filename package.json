@@ -1,0 +1,30 @@
+{
+  "name": "maskinporten-freg",
+  "version": "1.0.0",
+  "description": "Generate JWT grant for Maskinporten",
+  "main": "freg-maskinporten-token.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "qs": "^6.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud-innovation/maskinporten-freg.git"
+  },
+  "keywords": [
+    "FREG",
+    "Maskinporten"
+  ],
+  "author": "Cloud Innovation AS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloud-innovation/maskinporten-freg/issues"
+  },
+  "homepage": "https://github.com/cloud-innovation/maskinporten-freg#readme"
+}
